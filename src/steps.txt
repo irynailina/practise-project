@@ -1,0 +1,2 @@
+1. установить firebase
+2. создать firebase config
